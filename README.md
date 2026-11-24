@@ -49,7 +49,7 @@ To turn raw survey responses into clear, interactive visuals that answer questio
 data-professional-survey-powerbi/
 ├── DataProfessionalSurveyProject.pbix   # Power BI report
 ├── images/
-│   └── dashboard.png                    # Dashboard screenshot
+│   └── PowerBiDashboard.png                    # Dashboard screenshot
 ├── README.md
 └── .gitignore
 ```
@@ -68,23 +68,22 @@ data-professional-survey-powerbi/
 ## 📌 Key Insights
 
 <!-- Replace with your own findings after reviewing the dashboard, e.g.: -->
-- _Which job title has the highest average salary?_
-- _Which programming language is most popular overall?_
-- _Which country has the most respondents?_
-- _How happy are respondents with salary vs. work/life balance?_
+- _Which job title has the highest average salary?_ Data Scientist has the highest average salary.
+- _Which programming language is most popular overall?_ Python is most popular overall.
+- _Which country has the most respondents?_ United States has the most respindents.
+- _How happy are respondents with salary vs. work/life balance?_ Respondents are happier with work/life balance (5.7 out of 10) than with salary (4.2 out of 10), a gap of 1.5 points. This suggests data professionals value their flexibility but feel their pay could be higher.
 
 ---
 
 ## 📂 Data Source
 
-Survey data on data professionals. _Add the source/link here (e.g., Kaggle, course dataset, or your own survey)._
-
+Survey data on data professionals. This survey is done by @AlexTheAnalyst. https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
 ---
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+**Chanchalla Manju**
+- GitHub: @Chanchalla-manju-28(https://github.com/Chanchalla-manju-28)
+- LinkedIn: Chanchalla Manju(www.linkedin.com/in/chanchalla-manju-0688062a3)
 
 ⭐ If you found this project useful, please star the repository!
