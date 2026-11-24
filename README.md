@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes responses from a **Data Professional Survey**. It explores who works in data, what they earn, which programming languages they prefer, where they live, and how happy they are in their roles.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/PowerBiDashboard.png)
 <!-- Add a screenshot of your report to the images/ folder and keep the line above -->
 
 ---
