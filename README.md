@@ -49,7 +49,7 @@ To turn raw survey responses into clear, interactive visuals that answer questio
 data-professional-survey-powerbi/
 ├── DataProfessionalSurveyProject.pbix   # Power BI report
 ├── images/
-│   └── PowerBiDashboard.png                    # Dashboard screenshot
+│   └── PowerBiDashboard.png             # Dashboard screenshot
 ├── README.md
 └── .gitignore
 ```
@@ -68,10 +68,10 @@ data-professional-survey-powerbi/
 ## 📌 Key Insights
 
 <!-- Replace with your own findings after reviewing the dashboard, e.g.: -->
-- _Which job title has the highest average salary?_ Data Scientist has the highest average salary.
-- _Which programming language is most popular overall?_ Python is most popular overall.
-- _Which country has the most respondents?_ United States has the most respindents.
-- _How happy are respondents with salary vs. work/life balance?_ Respondents are happier with work/life balance (5.7 out of 10) than with salary (4.2 out of 10), a gap of 1.5 points. This suggests data professionals value their flexibility but feel their pay could be higher.
+- _Which job title has the highest average salary?_ - Data Scientist has the highest average salary.
+- _Which programming language is most popular overall?_ - Python is most popular overall.
+- _Which country has the most respondents?_ - United States has the most respindents.
+- _How happy are respondents with salary vs. work/life balance?_ - Respondents are happier with work/life balance (5.7 out of 10) than with salary (4.2 out of 10), a gap of 1.5 points. This suggests data professionals value their flexibility but feel their pay could be higher.
 
 ---
 
